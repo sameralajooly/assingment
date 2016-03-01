@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user ID="1">
+    <name>samer</name>
+    <DOB>16/8/1995</DOB>
+    <friends>
+        <ID>2</ID>
+        <ID>3</ID>
+        <ID>5</ID>
+        <ID>6</ID>        
+    </friends>
+</user>
+<user ID="2">
+    <name>ibraheem</name>
+    <DOB>28/2/1995</DOB>
+    <friends>
+        <ID>1</ID>
+        <ID>4</ID>
+        <ID>7</ID>
+    </friends>
+</user>
+<user ID="3">
+    <name>lina</name>
+    <DOB>22/5/1993</DOB>
+    <friends>
+        <ID>1</ID>
+        <ID>4</ID>
+    </friends>
+</user>
+<user ID="4">
+    <name>luna</name>
+    <DOB>29/7/1989</DOB>
+    <friends>
+        <ID>1</ID>
+        <ID>2</ID>
+        <ID>3</ID>
+    </friends>
+</user>
+<user ID="5">
+    <name>faisal</name>
+    <DOB>16/11/2001</DOB>
+    <friends>
+        <ID>1</ID>
+        <ID>6</ID>
+        <ID>7</ID>
+    </friends>
+</user>
+<user ID="6">
+    <name>mohammed</name>
+    <DOB>25/12/1955</DOB>
+    <friends>
+        <ID>1</ID>
+        <ID>5</ID>
+        <ID>7</ID>
+    </friends>
+</user>
+<user ID="7">
+    <name>salma</name>
+    <DOB>17/3/1996</DOB>
+    <friends>
+        <ID>2</ID>
+        <ID>5</ID>
+        <ID>6</ID>
+    </friends>
+</user>
+</users>
